@@ -14,8 +14,9 @@ An app that helps locate restraunts depending on the users mood/cravings and loc
 ---
 
 ### User Stories
-// TODO: Enumerate User Stories
-1. User can...
+1. User can connect the app to a gps.
+2. If the users choose to they can leave reviews about the resturaunts.
+3. Users can bookmark the restraunts they like the most and share it with friends.
 
 ---
 
