@@ -4,7 +4,6 @@
 An app that helps locate restraunts depending on the users mood/cravings and location.
 
 ### App Idea Evaluation
-// TODO: Evaluate app across the following categories using the App Evaluation Protocol.
 
 - Mobile: An app that helps you efficently pack your car when traveling.
 - Story:
