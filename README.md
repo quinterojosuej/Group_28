@@ -25,4 +25,4 @@ An app that helps locate restraunts depending on the users mood/cravings and loc
 ---
 
 ### App Pitch Presentation
-// TODO: Add link to Pitch Presentation Deck
+https://docs.google.com/presentation/d/1q9RSJXMktMw61JcOLSi6Mcs6lgy_qv-EXr-u2xCMHwo/edit?usp=sharing
