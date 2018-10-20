@@ -1,4 +1,3 @@
-# Group_28
 ## IDUNNO
 
 ### App Description
