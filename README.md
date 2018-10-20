@@ -17,7 +17,7 @@ An app that helps locate restraunts depending on the users mood/cravings and loc
 1. User can connect the app to a gps.
 2. If the users choose to they can leave reviews about the resturaunts.
 3. Users can bookmark the restraunts they like the most and share it with friends.
-4. Users can see resaurants menus and prices
+4. Users can see restaurants menus and prices
 
 ---
 
